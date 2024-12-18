@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Bitcoin\n                      \n  BTC",
+    "image": "https://assets.coingecko.com/coins/images/1/standard/bitcoin.png?1696501400",
+    "price": "$104,016",
+    "change1h": "0.8%"
+  },
+  {
+    "name": "Ethereum\n                      \n  ETH",
+    "image": "https://assets.coingecko.com/coins/images/279/standard/ethereum.png?1696501628",
+    "price": "$3,842.64",
+    "change1h": "0.6%"
+  },
+  {
+    "name": "XRP\n                      \n  XRP",
+    "image": "https://assets.coingecko.com/coins/images/44/standard/xrp-symbol-white-128.png?1696501442",
+    "price": "$2.51",
+    "change1h": "1.0%"
+  },
+  {
+    "name": "Tether\n                      \n  USDT",
+    "image": "https://assets.coingecko.com/coins/images/325/standard/Tether.png?1696501661",
+    "price": "$0.9984",
+    "change1h": "0.2%"
+  },
+  {
+    "name": "BNB\n                      \n  BNB",
+    "image": "https://assets.coingecko.com/coins/images/825/standard/bnb-icon2_2x.png?1696501970",
+    "price": "$712.48",
+    "change1h": "0.5%"
+  },
+  {
+    "name": "Solana\n                      \n  SOL",
+    "image": "https://assets.coingecko.com/coins/images/4128/standard/solana.png?1718769756",
+    "price": "$215.17",
+    "change1h": "0.9%"
+  },
+  {
+    "name": "Dogecoin\n                      \n  DOGE",
+    "image": "https://assets.coingecko.com/coins/images/5/standard/dogecoin.png?1696501409",
+    "price": "$0.383",
+    "change1h": "0.5%"
+  },
+  {
+    "name": "USDC\n                      \n  USDC",
+    "image": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
+    "price": "$0.9992",
+    "change1h": "0.0%"
+  },
+  {
+    "name": "Lido Staked Ether\n                      \n  STETH",
+    "image": "https://assets.coingecko.com/coins/images/13442/standard/steth_logo.png?1696513206",
+    "price": "$3,836.04",
+    "change1h": "0.6%"
+  },
+  {
+    "name": "Cardano\n                      \n  ADA",
+    "image": "https://assets.coingecko.com/coins/images/975/standard/cardano.png?1696502090",
+    "price": "$1.02",
+    "change1h": "0.9%"
+  }
+]

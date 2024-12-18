@@ -9,9 +9,6 @@ const __dirname = dirname(__filename);
 const URL = "https://www.coingecko.com/";
 const BROWSER_WS = "wss://brd-customer-hl_f4f38d7b-zone-scraping_browser1:fd4netlfko0y@brd.superproxy.io:9222";
 
-// Helper function to delay execution
-const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
-
 run(URL);
 
 async function run(url) {
@@ -40,7 +37,7 @@ async function run(url) {
     });
     
     // Wait a bit for the scroll to complete
-    await delay(1000);
+    await page.waitForTimeout(1000);
     
     // Click the button to open dropdown
     await rowSelectorButton.click();
@@ -50,7 +47,7 @@ async function run(url) {
     await selector100.click();
     
     // Wait for the table to update with new rows
-    await delay(2000);
+    await page.waitForTimeout(2000);
     
     console.log("Selected 100 rows. Parsing data...");
     const data = await parse(page);

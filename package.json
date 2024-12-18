@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "dependencies": {
     "puppeteer-core": "^23.11.0"
   }
