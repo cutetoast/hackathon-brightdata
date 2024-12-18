@@ -12,8 +12,6 @@ const BROWSER_WS = "wss://brd-customer-hl_f4f38d7b-zone-scraping_browser1:fd4net
 // Helper function to delay execution
 const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
 
-run(URL);
-
 async function run(url) {
   let browser = null;
   try {
@@ -21,11 +19,38 @@ async function run(url) {
     browser = await puppeteer.connect({
       browserWSEndpoint: BROWSER_WS,
     });
-    console.log("Connected! Navigate to site...");
+
+    console.log("Connected! Creating new page...");
     const page = await browser.newPage();
     
-    await page.goto(url, { waitUntil: "networkidle0", timeout: 60000 });
-    console.log("Navigated! Setting up page...");
+    // Set longer timeouts
+    page.setDefaultNavigationTimeout(120000);
+    page.setDefaultTimeout(120000);
+    
+    // Enable request interception to speed up page load
+    await page.setRequestInterception(true);
+    page.on('request', (request) => {
+      // Block images, fonts, and other non-essential resources
+      const blockedResourceTypes = [
+        'image',
+        'font',
+        'media',
+        'stylesheet'
+      ];
+      if (blockedResourceTypes.includes(request.resourceType())) {
+        request.abort();
+      } else {
+        request.continue();
+      }
+    });
+
+    console.log("Navigate to site...");
+    await page.goto(url, { 
+      waitUntil: ["domcontentloaded", "networkidle2"],
+      timeout: 120000 
+    });
+    
+    console.log("Setting up page...");
     
     // Wait for the table to be present
     await page.waitForSelector('table[data-page="coinsIndex"]', { 
@@ -33,26 +58,44 @@ async function run(url) {
       visible: true 
     });
 
-    // Find and scroll to the row selector button
-    const rowSelectorButton = await page.waitForSelector('button.tw-bg-gray-200.dark\\:tw-bg-moon-700');
-    await rowSelectorButton.evaluate(button => {
-      button.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    // Find the pagination selector container
+    const paginationSelector = await page.waitForSelector('.gecko-pagination-selector', {
+      timeout: 60000,
+      visible: true
     });
     
-    // Wait a bit for the scroll to complete
+    // Find and click the dropdown button within the pagination selector
+    const dropdownButton = await paginationSelector.$('button[data-view-component="true"]');
+    if (!dropdownButton) {
+      throw new Error("Could not find the rows dropdown button");
+    }
+    
+    // Scroll to the button
+    await dropdownButton.evaluate(button => {
+      button.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    });
     await delay(1000);
     
-    // Click the button to open dropdown
-    await rowSelectorButton.click();
+    // Click to open the dropdown
+    await dropdownButton.click();
+    console.log("Opened rows dropdown");
+    await delay(1000);
     
-    // Wait for and click the 100 rows option
-    const selector100 = await page.waitForSelector('a[data-value="100"]');
-    await selector100.click();
+    // Use JavaScript click since the dropdown might be in a portal/overlay
+    await page.evaluate(() => {
+      // Find all elements that contain "100" and are likely to be dropdown options
+      const elements = Array.from(document.querySelectorAll('div[x-show="open"] div'));
+      const option = elements.find(el => el.textContent.trim() === '100');
+      if (option) {
+        option.click();
+      }
+    });
+    console.log("Selected 100 rows option");
     
     // Wait for the table to update with new rows
-    await delay(2000);
+    await delay(3000);
     
-    console.log("Selected 100 rows. Parsing data...");
+    console.log("Parsing data...");
     const data = await parse(page);
     console.log("Cryptocurrency data:");
     console.log(JSON.stringify(data, null, 2));
@@ -111,3 +154,5 @@ async function saveToFile(data) {
     throw error;
   }
 }
+
+run(URL);
