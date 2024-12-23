@@ -22,11 +22,11 @@ async function run(url) {
 
     console.log("Connected! Creating new page...");
     const page = await browser.newPage();
-    
+
     // Set longer timeouts
     page.setDefaultNavigationTimeout(120000);
     page.setDefaultTimeout(120000);
-    
+
     // Enable request interception to speed up page load
     await page.setRequestInterception(true);
     page.on('request', (request) => {
@@ -49,7 +49,7 @@ async function run(url) {
       waitUntil: ["domcontentloaded", "networkidle2"],
       timeout: 120000 
     });
-    
+
     console.log("Setting up page...");
     
     // Wait for the table to be present
@@ -58,51 +58,14 @@ async function run(url) {
       visible: true 
     });
 
-    // Find the pagination selector container
-    const paginationSelector = await page.waitForSelector('.gecko-pagination-selector', {
-      timeout: 60000,
-      visible: true
-    });
-    
-    // Find and click the dropdown button within the pagination selector
-    const dropdownButton = await paginationSelector.$('button[data-view-component="true"]');
-    if (!dropdownButton) {
-      throw new Error("Could not find the rows dropdown button");
-    }
-    
-    // Scroll to the button
-    await dropdownButton.evaluate(button => {
-      button.scrollIntoView({ behavior: 'smooth', block: 'center' });
-    });
-    await delay(1000);
-    
-    // Click to open the dropdown
-    await dropdownButton.click();
-    console.log("Opened rows dropdown");
-    await delay(1000);
-    
-    // Use JavaScript click since the dropdown might be in a portal/overlay
-    await page.evaluate(() => {
-      // Find all elements that contain "100" and are likely to be dropdown options
-      const elements = Array.from(document.querySelectorAll('div[x-show="open"] div'));
-      const option = elements.find(el => el.textContent.trim() === '100');
-      if (option) {
-        option.click();
-      }
-    });
-    console.log("Selected 100 rows option");
-    
-    // Wait for the table to update with new rows
-    await delay(3000);
-    
     console.log("Parsing data...");
     const data = await parse(page);
     console.log("Cryptocurrency data:");
     console.log(JSON.stringify(data, null, 2));
-    
-    // Save data to file
+
+    // Save data to file (update same file)
     await saveToFile(data);
-    
+
   } catch (error) {
     console.error("Error occurred:", error);
   } finally {
@@ -141,13 +104,12 @@ async function parse(page) {
 }
 
 async function saveToFile(data) {
-  const timestamp = new Date().toISOString().replace(/[:.]/g, '-');
-  const filename = `coingecko_data_${timestamp}.json`;
+  const filename = `coingecko_data.json`; // Use a fixed filename
   const filePath = join(__dirname, filename);
-  
+
   try {
     await fs.writeFile(filePath, JSON.stringify(data, null, 2));
-    console.log(`Data saved to ${filename}`);
+    console.log(`Data updated in ${filename}`);
     return filename;
   } catch (error) {
     console.error("Error saving file:", error);
@@ -155,4 +117,12 @@ async function saveToFile(data) {
   }
 }
 
-run(URL);
+// Refresh script every 5 seconds
+(async function refresh() {
+  while (true) {
+    console.log("Running script...");
+    await run(URL);
+    console.log("Waiting 5 seconds before next refresh...");
+    await delay(5000);
+  }
+})();
