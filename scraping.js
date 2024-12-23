@@ -122,7 +122,7 @@ async function saveToFile(data) {
   while (true) {
     console.log("Running script...");
     await run(URL);
-    console.log("Waiting 5 seconds before next refresh...");
+    console.log("Waiting 3 minutes before next refresh...");
     await delay(5000);
   }
 })();
