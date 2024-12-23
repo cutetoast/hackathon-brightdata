@@ -24,8 +24,8 @@ async function run(url) {
     const page = await browser.newPage();
 
     // Set longer timeouts
-    page.setDefaultNavigationTimeout(120000);
-    page.setDefaultTimeout(120000);
+    page.setDefaultNavigationTimeout(180000);
+    page.setDefaultTimeout(180000);
 
     // Enable request interception to speed up page load
     await page.setRequestInterception(true);

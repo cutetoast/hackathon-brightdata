@@ -2,701 +2,701 @@
   {
     "name": "Bitcoin\n                      \n  BTC",
     "image": "https://assets.coingecko.com/coins/images/1/standard/bitcoin.png?1696501400",
-    "price": "$95,902.73",
+    "price": "$96,138.33",
     "change1h": "1.4%",
-    "timestamp": "2024-12-23T04:00:56.481Z"
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "Ethereum\n                      \n  ETH",
     "image": "https://assets.coingecko.com/coins/images/279/standard/ethereum.png?1696501628",
-    "price": "$3,352.06",
-    "change1h": "2.2%",
-    "timestamp": "2024-12-23T04:00:56.481Z"
+    "price": "$3,355.93",
+    "change1h": "2.0%",
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "Tether\n                      \n  USDT",
     "image": "https://assets.coingecko.com/coins/images/325/standard/Tether.png?1696501661",
-    "price": "$0.9992",
-    "change1h": "0.0%",
-    "timestamp": "2024-12-23T04:00:56.481Z"
+    "price": "$1.00",
+    "change1h": "0.1%",
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "XRP\n                      \n  XRP",
     "image": "https://assets.coingecko.com/coins/images/44/standard/xrp-symbol-white-128.png?1696501442",
     "price": "$2.22",
     "change1h": "2.6%",
-    "timestamp": "2024-12-23T04:00:56.481Z"
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "BNB\n                      \n  BNB",
     "image": "https://assets.coingecko.com/coins/images/825/standard/bnb-icon2_2x.png?1696501970",
-    "price": "$664.95",
+    "price": "$666.40",
     "change1h": "1.4%",
-    "timestamp": "2024-12-23T04:00:56.481Z"
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "Solana\n                      \n  SOL",
     "image": "https://assets.coingecko.com/coins/images/4128/standard/solana.png?1718769756",
-    "price": "$186.40",
-    "change1h": "3.8%",
-    "timestamp": "2024-12-23T04:00:56.481Z"
+    "price": "$186.75",
+    "change1h": "3.7%",
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "Dogecoin\n                      \n  DOGE",
     "image": "https://assets.coingecko.com/coins/images/5/standard/dogecoin.png?1696501409",
-    "price": "$0.3207",
-    "change1h": "3.3%",
-    "timestamp": "2024-12-23T04:00:56.481Z"
+    "price": "$0.3212",
+    "change1h": "3.0%",
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "USDC\n                      \n  USDC",
     "image": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
     "price": "$1.00",
     "change1h": "0.1%",
-    "timestamp": "2024-12-23T04:00:56.481Z"
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "Cardano\n                      \n  ADA",
     "image": "https://assets.coingecko.com/coins/images/975/standard/cardano.png?1696502090",
-    "price": "$0.9093",
-    "change1h": "3.3%",
-    "timestamp": "2024-12-23T04:00:56.481Z"
+    "price": "$0.9112",
+    "change1h": "3.0%",
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "Lido Staked Ether\n                      \n  STETH",
     "image": "https://assets.coingecko.com/coins/images/13442/standard/steth_logo.png?1696513206",
-    "price": "$3,349.05",
+    "price": "$3,351.77",
     "change1h": "2.4%",
-    "timestamp": "2024-12-23T04:00:56.481Z"
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "TRON\n                      \n  TRX",
     "image": "https://assets.coingecko.com/coins/images/1094/standard/tron-logo.png?1696502193",
-    "price": "$0.2483",
+    "price": "$0.2489",
     "change1h": "1.7%",
-    "timestamp": "2024-12-23T04:00:56.481Z"
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "Avalanche\n                      \n  AVAX",
     "image": "https://assets.coingecko.com/coins/images/12559/standard/Avalanche_Circle_RedWhite_Trans.png?1696512369",
-    "price": "$37.80",
-    "change1h": "3.9%",
-    "timestamp": "2024-12-23T04:00:56.481Z"
+    "price": "$37.85",
+    "change1h": "3.8%",
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "Chainlink\n                      \n  LINK",
     "image": "https://assets.coingecko.com/coins/images/877/standard/chainlink-new-logo.png?1696502009",
-    "price": "$23.09",
-    "change1h": "3.7%",
-    "timestamp": "2024-12-23T04:00:56.481Z"
+    "price": "$23.23",
+    "change1h": "4.0%",
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "Toncoin\n                      \n  TON",
     "image": "https://assets.coingecko.com/coins/images/17980/standard/photo_2024-09-10_17.09.00.jpeg?1725963446",
     "price": "$5.50",
-    "change1h": "1.8%",
-    "timestamp": "2024-12-23T04:00:56.481Z"
+    "change1h": "1.7%",
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "Wrapped stETH\n                      \n  WSTETH",
     "image": "https://assets.coingecko.com/coins/images/18834/standard/wstETH.png?1696518295",
-    "price": "$3,966.25",
-    "change1h": "2.4%",
-    "timestamp": "2024-12-23T04:00:56.481Z"
+    "price": "$3,985.31",
+    "change1h": "2.6%",
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "Shiba Inu\n                      \n  SHIB",
     "image": "https://assets.coingecko.com/coins/images/11939/standard/shiba.png?1696511800",
-    "price": "$0.00002208",
+    "price": "$0.00002215",
     "change1h": "3.3%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "Sui\n                      \n  SUI",
     "image": "https://assets.coingecko.com/coins/images/26375/standard/sui-ocean-square.png?1727791290",
     "price": "$4.42",
     "change1h": "3.3%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "Wrapped Bitcoin\n                      \n  WBTC",
     "image": "https://assets.coingecko.com/coins/images/7598/standard/wrapped_bitcoin_wbtc.png?1696507857",
-    "price": "$95,705.71",
-    "change1h": "1.6%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "price": "$95,506.42",
+    "change1h": "1.0%",
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "Stellar\n                      \n  XLM",
     "image": "https://assets.coingecko.com/coins/images/100/standard/Stellar_symbol_black_RGB.png?1696501482",
-    "price": "$0.3647",
+    "price": "$0.3657",
     "change1h": "3.1%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "Polkadot\n                      \n  DOT",
     "image": "https://static.coingecko.com/s/polkadot-73b0c058cae10a2f076a82dcade5cbe38601fad05d5e6211188f09eb96fa4617.gif",
-    "price": "$7.07",
-    "change1h": "3.9%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "price": "$7.08",
+    "change1h": "3.7%",
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "Hedera\n                      \n  HBAR",
     "image": "https://assets.coingecko.com/coins/images/3688/standard/hbar.png?1696504364",
-    "price": "$0.2677",
-    "change1h": "3.1%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "price": "$0.2684",
+    "change1h": "3.3%",
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "Hyperliquid\n                      \n  HYPE",
     "image": "https://assets.coingecko.com/coins/images/50882/standard/hyperliquid.jpg?1729431300",
-    "price": "$29.71",
-    "change1h": "7.4%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "price": "$29.49",
+    "change1h": "8.7%",
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "WETH\n                      \n  WETH",
     "image": "https://assets.coingecko.com/coins/images/2518/standard/weth.png?1696503332",
-    "price": "$3,354.43",
-    "change1h": "2.3%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "price": "$3,354.50",
+    "change1h": "2.1%",
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "Bitcoin Cash\n                      \n  BCH",
     "image": "https://assets.coingecko.com/coins/images/780/standard/bitcoin-cash-circle.png?1696501932",
-    "price": "$456.27",
-    "change1h": "3.5%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "price": "$456.77",
+    "change1h": "3.2%",
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "LEO Token\n                      \n  LEO",
     "image": "https://assets.coingecko.com/coins/images/8418/standard/leo-token.png?1696508607",
-    "price": "$9.39",
+    "price": "$9.42",
     "change1h": "0.2%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "Uniswap\n                      \n  UNI",
     "image": "https://assets.coingecko.com/coins/images/12504/standard/uniswap-logo.png?1720676669",
-    "price": "$14.22",
-    "change1h": "3.6%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "price": "$14.31",
+    "change1h": "3.5%",
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "Litecoin\n                      \n  LTC",
     "image": "https://assets.coingecko.com/coins/images/2/standard/litecoin.png?1696501400",
-    "price": "$104.24",
-    "change1h": "3.5%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "price": "$104.77",
+    "change1h": "3.4%",
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "Pepe\n                      \n  PEPE",
     "image": "https://assets.coingecko.com/coins/images/29850/standard/pepe-token.jpeg?1696528776",
-    "price": "$0.00001823",
-    "change1h": "3.4%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "price": "$0.00001825",
+    "change1h": "3.2%",
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "Wrapped eETH\n                      \n  WEETH",
     "image": "https://assets.coingecko.com/coins/images/33033/standard/weETH.png?1701438396",
-    "price": "$3,539.19",
+    "price": "$3,537.41",
     "change1h": "2.3%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "NEAR Protocol\n                      \n  NEAR",
     "image": "https://assets.coingecko.com/coins/images/10365/standard/near.jpg?1696510367",
-    "price": "$5.19",
+    "price": "$5.20",
     "change1h": "3.0%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "Ethena USDe\n                      \n  USDE",
     "image": "https://assets.coingecko.com/coins/images/33613/standard/usde.png?1733810059",
-    "price": "$0.9999",
-    "change1h": "0.0%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "price": "$1.00",
+    "change1h": "0.2%",
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "Bitget Token\n                      \n  BGB",
     "image": "https://assets.coingecko.com/coins/images/11610/standard/icon_colour.png?1696511504",
-    "price": "$4.18",
-    "change1h": "2.6%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "price": "$4.20",
+    "change1h": "3.2%",
+    "timestamp": "2024-12-23T04:08:36.277Z"
+  },
+  {
+    "name": "Aptos\n                      \n  APT",
+    "image": "https://assets.coingecko.com/coins/images/26455/standard/aptos_round.png?1696525528",
+    "price": "$9.43",
+    "change1h": "3.4%",
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "USDS\n                      \n  USDS",
     "image": "https://assets.coingecko.com/coins/images/39926/standard/usds.webp?1726666683",
     "price": "$1.00",
-    "change1h": "0.1%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
-  },
-  {
-    "name": "Aptos\n                      \n  APT",
-    "image": "https://assets.coingecko.com/coins/images/26455/standard/aptos_round.png?1696525528",
-    "price": "$9.41",
-    "change1h": "3.7%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "change1h": "0.2%",
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "Aave\n                      \n  AAVE",
     "image": "https://assets.coingecko.com/coins/images/12645/standard/aave-token-round.png?1720472354",
-    "price": "$329.40",
+    "price": "$331.06",
     "change1h": "3.7%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "Internet Computer\n                      \n  ICP",
     "image": "https://assets.coingecko.com/coins/images/14495/standard/Internet_Computer_logo.png?1696514180",
-    "price": "$10.28",
+    "price": "$10.32",
     "change1h": "4.4%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "Cronos\n                      \n  CRO",
     "image": "https://assets.coingecko.com/coins/images/7310/standard/cro_token_logo.png?1696507599",
-    "price": "$0.1575",
-    "change1h": "3.4%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "price": "$0.1576",
+    "change1h": "2.9%",
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "POL (ex-MATIC)\n                      \n  POL",
     "image": "https://assets.coingecko.com/coins/images/32440/standard/polygon.png?1698233684",
-    "price": "$0.4873",
-    "change1h": "3.1%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "price": "$0.4891",
+    "change1h": "3.0%",
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "Mantle\n                      \n  MNT",
     "image": "https://assets.coingecko.com/coins/images/30980/standard/token-logo.png?1696529819",
     "price": "$1.20",
-    "change1h": "2.9%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "change1h": "2.1%",
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "Ethereum Classic\n                      \n  ETC",
     "image": "https://assets.coingecko.com/coins/images/453/standard/ethereum-classic-logo.png?1696501717",
-    "price": "$26.75",
-    "change1h": "2.8%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "price": "$26.78",
+    "change1h": "2.6%",
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "VeChain\n                      \n  VET",
     "image": "https://assets.coingecko.com/coins/images/1167/standard/VET_Token_Icon.png?1710013505",
-    "price": "$0.04708",
-    "change1h": "4.1%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "price": "$0.04729",
+    "change1h": "4.3%",
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "Render\n                      \n  RENDER",
     "image": "https://assets.coingecko.com/coins/images/11636/standard/rndr.png?1696511529",
-    "price": "$7.29",
-    "change1h": "4.0%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "price": "$7.30",
+    "change1h": "3.9%",
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "MANTRA\n                      \n  OM",
     "image": "https://assets.coingecko.com/coins/images/12151/standard/OM_Token.png?1696511991",
-    "price": "$3.72",
-    "change1h": "1.6%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
-  },
-  {
-    "name": "Monero\n                      \n  XMR",
-    "image": "https://assets.coingecko.com/coins/images/69/standard/monero_logo.png?1696501460",
-    "price": "$191.58",
+    "price": "$3.74",
     "change1h": "1.7%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "WhiteBIT Coin\n                      \n  WBT",
     "image": "https://assets.coingecko.com/coins/images/27045/standard/wbt_token.png?1696526096",
-    "price": "$24.64",
-    "change1h": "1.1%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "price": "$24.56",
+    "change1h": "0.7%",
+    "timestamp": "2024-12-23T04:08:36.277Z"
+  },
+  {
+    "name": "Monero\n                      \n  XMR",
+    "image": "https://assets.coingecko.com/coins/images/69/standard/monero_logo.png?1696501460",
+    "price": "$191.52",
+    "change1h": "1.5%",
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "Bittensor\n                      \n  TAO",
     "image": "https://assets.coingecko.com/coins/images/28452/standard/ARUsPeNQ_400x400.jpeg?1696527447",
-    "price": "$465.91",
-    "change1h": "3.4%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "price": "$466.42",
+    "change1h": "3.3%",
+    "timestamp": "2024-12-23T04:08:36.277Z"
   },
   {
     "name": "Dai\n                      \n  DAI",
     "image": "https://assets.coingecko.com/coins/images/9956/standard/Badge_Dai.png?1696509996",
     "price": "$1.00",
-    "change1h": "0.1%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "change1h": "0.0%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Artificial Superintelligence Alliance\n                      \n  FET",
     "image": "https://assets.coingecko.com/coins/images/5681/standard/ASI.png?1719827289",
     "price": "$1.30",
-    "change1h": "3.8%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "change1h": "3.6%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Arbitrum\n                      \n  ARB",
     "image": "https://assets.coingecko.com/coins/images/16547/standard/arb.jpg?1721358242",
-    "price": "$0.7695",
-    "change1h": "3.2%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "price": "$0.7698",
+    "change1h": "2.9%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Ethena\n                      \n  ENA",
     "image": "https://assets.coingecko.com/coins/images/36530/standard/ethena.png?1711701436",
-    "price": "$1.08",
-    "change1h": "3.0%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
-  },
-  {
-    "name": "Filecoin\n                      \n  FIL",
-    "image": "https://assets.coingecko.com/coins/images/12817/standard/filecoin.png?1696512609",
-    "price": "$4.99",
+    "price": "$1.09",
     "change1h": "3.5%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Kaspa\n                      \n  KAS",
     "image": "https://assets.coingecko.com/coins/images/25751/standard/kaspa-icon-exchanges.png?1696524837",
-    "price": "$0.1207",
+    "price": "$0.1212",
     "change1h": "3.8%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "timestamp": "2024-12-23T04:08:36.278Z"
+  },
+  {
+    "name": "Filecoin\n                      \n  FIL",
+    "image": "https://assets.coingecko.com/coins/images/12817/standard/filecoin.png?1696512609",
+    "price": "$5.01",
+    "change1h": "3.4%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Algorand\n                      \n  ALGO",
     "image": "https://assets.coingecko.com/coins/images/4380/standard/download.png?1696504978",
-    "price": "$0.3604",
-    "change1h": "4.4%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "price": "$0.3641",
+    "change1h": "5.1%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Fantom\n                      \n  FTM",
     "image": "https://assets.coingecko.com/coins/images/4001/standard/Fantom_round.png?1696504642",
-    "price": "$1.01",
-    "change1h": "6.4%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "price": "$1.02",
+    "change1h": "6.6%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "OKB\n                      \n  OKB",
     "image": "https://assets.coingecko.com/coins/images/4463/standard/WeChat_Image_20220118095654.png?1696505053",
-    "price": "$45.62",
-    "change1h": "1.6%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "price": "$45.79",
+    "change1h": "1.8%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Cosmos Hub\n                      \n  ATOM",
     "image": "https://assets.coingecko.com/coins/images/1481/standard/cosmos_hub.png?1696502525",
-    "price": "$6.63",
+    "price": "$6.65",
     "change1h": "3.8%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Stacks\n                      \n  STX",
     "image": "https://assets.coingecko.com/coins/images/2069/standard/Stacks_Logo_png.png?1709979332",
     "price": "$1.68",
-    "change1h": "2.9%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "change1h": "2.8%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Virtuals Protocol\n                      \n  VIRTUAL",
     "image": "https://assets.coingecko.com/coins/images/34057/standard/LOGOMARK.png?1708356054",
-    "price": "$2.47",
-    "change1h": "6.3%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "price": "$2.48",
+    "change1h": "5.6%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Optimism\n                      \n  OP",
     "image": "https://assets.coingecko.com/coins/images/25244/standard/Optimism.png?1696524385",
     "price": "$1.82",
-    "change1h": "3.3%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "change1h": "3.1%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Bonk\n                      \n  BONK",
     "image": "https://assets.coingecko.com/coins/images/28600/standard/bonk.jpg?1696527587",
-    "price": "$0.00003204",
-    "change1h": "3.7%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "price": "$0.00003213",
+    "change1h": "3.4%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Ondo\n                      \n  ONDO",
     "image": "https://assets.coingecko.com/coins/images/26580/standard/ONDO.png?1696525656",
     "price": "$1.65",
-    "change1h": "3.5%",
-    "timestamp": "2024-12-23T04:00:56.482Z"
+    "change1h": "3.6%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Celestia\n                      \n  TIA",
     "image": "https://assets.coingecko.com/coins/images/31967/standard/tia.jpg?1696530772",
-    "price": "$5.10",
+    "price": "$5.11",
     "change1h": "3.3%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Immutable\n                      \n  IMX",
     "image": "https://assets.coingecko.com/coins/images/17233/standard/immutableX-symbol-BLK-RGB.png?1696516787",
-    "price": "$1.37",
+    "price": "$1.38",
     "change1h": "4.1%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Theta Network\n                      \n  THETA",
     "image": "https://assets.coingecko.com/coins/images/2538/standard/theta-token-logo.png?1696503349",
-    "price": "$2.24",
-    "change1h": "5.0%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "price": "$2.25",
+    "change1h": "5.1%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Injective\n                      \n  INJ",
     "image": "https://assets.coingecko.com/coins/images/12882/standard/Secondary_Symbol.png?1696512670",
-    "price": "$21.28",
-    "change1h": "4.1%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "price": "$21.30",
+    "change1h": "3.8%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "The Graph\n                      \n  GRT",
     "image": "https://assets.coingecko.com/coins/images/13397/standard/Graph_Token.png?1696513159",
-    "price": "$0.2134",
-    "change1h": "4.2%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "price": "$0.2139",
+    "change1h": "3.9%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Binance-Peg WETH\n                      \n  WETH",
     "image": "https://assets.coingecko.com/coins/images/39580/standard/weth.png?1723006716",
-    "price": "$3,349.19",
-    "change1h": "2.4%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "price": "$3,355.33",
+    "change1h": "2.6%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Coinbase Wrapped BTC\n                      \n  CBBTC",
     "image": "https://assets.coingecko.com/coins/images/40143/standard/cbbtc.webp?1726136727",
-    "price": "$95,881.93",
-    "change1h": "1.3%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "price": "$96,251.16",
+    "change1h": "1.5%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "dogwifhat\n                      \n  WIF",
     "image": "https://assets.coingecko.com/coins/images/33566/standard/dogwifhat.jpg?1702499428",
-    "price": "$1.97",
-    "change1h": "3.5%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "price": "$1.98",
+    "change1h": "3.4%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Sei\n                      \n  SEI",
     "image": "https://assets.coingecko.com/coins/images/28205/standard/Sei_Logo_-_Transparent.png?1696527207",
-    "price": "$0.4353",
-    "change1h": "3.9%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "price": "$0.4362",
+    "change1h": "3.8%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Worldcoin\n                      \n  WLD",
     "image": "https://assets.coingecko.com/coins/images/31069/standard/worldcoin.jpeg?1696529903",
-    "price": "$2.26",
+    "price": "$2.27",
     "change1h": "2.9%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "THORChain\n                      \n  RUNE",
     "image": "https://assets.coingecko.com/coins/images/6595/standard/Rune200x200.png?1696506946",
     "price": "$5.11",
-    "change1h": "3.3%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "change1h": "2.6%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Rocket Pool ETH\n                      \n  RETH",
     "image": "https://assets.coingecko.com/coins/images/20764/standard/reth.png?1696520159",
-    "price": "$3,755.75",
-    "change1h": "3.0%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "price": "$3,758.61",
+    "change1h": "2.9%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Movement\n                      \n  MOVE",
     "image": "https://assets.coingecko.com/coins/images/39345/standard/movement-testnet-token.png?1721878759",
-    "price": "$0.772",
-    "change1h": "5.9%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "price": "$0.7718",
+    "change1h": "5.7%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Kelp DAO Restaked ETH\n                      \n  RSETH",
     "image": "https://assets.coingecko.com/coins/images/33800/standard/Icon___Dark.png?1702991855",
-    "price": "$3,454.24",
-    "change1h": "2.5%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "price": "$3,460.42",
+    "change1h": "2.3%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "First Digital USD\n                      \n  FDUSD",
     "image": "https://assets.coingecko.com/coins/images/31079/standard/FDUSD_icon_black.png?1731097953",
-    "price": "$0.9999",
+    "price": "$1.00",
     "change1h": "0.2%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Pudgy Penguins\n                      \n  PENGU",
     "image": "https://assets.coingecko.com/coins/images/52622/standard/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-    "price": "$0.02708",
-    "change1h": "3.2%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "price": "$0.02704",
+    "change1h": "2.5%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "FLOKI\n                      \n  FLOKI",
     "image": "https://assets.coingecko.com/coins/images/16746/standard/PNG_image.png?1696516318",
-    "price": "$0.0001725",
-    "change1h": "3.0%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "price": "$0.000173",
+    "change1h": "2.9%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "JasmyCoin\n                      \n  JASMY",
     "image": "https://assets.coingecko.com/coins/images/13876/standard/JASMY200x200.jpg?1696513620",
-    "price": "$0.03396",
-    "change1h": "4.4%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "price": "$0.03403",
+    "change1h": "4.0%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Gate\n                      \n  GT",
     "image": "https://assets.coingecko.com/coins/images/8183/standard/gate.png?1696508395",
-    "price": "$12.98",
+    "price": "$12.99",
     "change1h": "0.9%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Lido DAO\n                      \n  LDO",
     "image": "https://assets.coingecko.com/coins/images/13573/standard/Lido_DAO.png?1696513326",
     "price": "$1.78",
-    "change1h": "3.6%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "change1h": "3.7%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Quant\n                      \n  QNT",
     "image": "https://assets.coingecko.com/coins/images/3370/standard/5ZOu7brX_400x400.jpg?1696504070",
-    "price": "$107.91",
-    "change1h": "3.8%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "price": "$108.15",
+    "change1h": "3.7%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Tokenize Xchange\n                      \n  TKX",
     "image": "https://assets.coingecko.com/coins/images/4984/standard/TKX_-_Logo_-_RGB-15.png?1696505519",
     "price": "$19.60",
-    "change1h": "0.5%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "change1h": "0.8%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Mantle Staked Ether\n                      \n  METH",
     "image": "https://assets.coingecko.com/coins/images/33345/standard/symbol_transparent_bg.png?1701697066",
-    "price": "$3,535.87",
-    "change1h": "2.5%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "price": "$3,527.64",
+    "change1h": "2.2%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "GALA\n                      \n  GALA",
     "image": "https://assets.coingecko.com/coins/images/12493/standard/GALA_token_image_-_200PNG.png?1709725869",
-    "price": "$0.03637",
-    "change1h": "4.0%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "price": "$0.0364",
+    "change1h": "3.9%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Beam\n                      \n  BEAM",
     "image": "https://assets.coingecko.com/coins/images/32417/standard/chain-logo.png?1698114384",
-    "price": "$0.02844",
-    "change1h": "4.0%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "price": "$0.02857",
+    "change1h": "4.1%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Lombard Staked BTC\n                      \n  LBTC",
     "image": "https://assets.coingecko.com/coins/images/39969/standard/LBTC_Logo.png?1724959872",
-    "price": "$95,795.05",
-    "change1h": "1.3%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "price": "$96,165.62",
+    "change1h": "1.6%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Flare\n                      \n  FLR",
     "image": "https://assets.coingecko.com/coins/images/28624/standard/FLR-icon200x200.png?1696527609",
-    "price": "$0.02652",
+    "price": "$0.02657",
     "change1h": "1.1%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Maker\n                      \n  MKR",
     "image": "https://assets.coingecko.com/coins/images/1364/standard/Mark_Maker.png?1696502423",
-    "price": "$1,624.71",
-    "change1h": "3.1%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "price": "$1,624.79",
+    "change1h": "2.9%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Usual USD\n                      \n  USD0",
     "image": "https://assets.coingecko.com/coins/images/38272/standard/USD0LOGO.png?1716962811",
     "price": "$1.00",
-    "change1h": "0.1%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "change1h": "0.4%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Fasttoken\n                      \n  FTN",
     "image": "https://assets.coingecko.com/coins/images/28478/standard/lightenicon_200x200.png?1696527472",
-    "price": "$3.32",
-    "change1h": "0.0%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "price": "$3.33",
+    "change1h": "0.2%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "The Sandbox\n                      \n  SAND",
     "image": "https://assets.coingecko.com/coins/images/12129/standard/sandbox_logo.jpg?1696511971",
-    "price": "$0.5829",
-    "change1h": "4.2%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "price": "$0.5843",
+    "change1h": "4.4%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Pyth Network\n                      \n  PYTH",
     "image": "https://assets.coingecko.com/coins/images/31924/standard/pyth.png?1701245725",
-    "price": "$0.3722",
-    "change1h": "3.8%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "price": "$0.3734",
+    "change1h": "4.0%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "KuCoin\n                      \n  KCS",
     "image": "https://assets.coingecko.com/coins/images/1047/standard/sa9z79.png?1696502152",
-    "price": "$11.18",
-    "change1h": "1.5%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "price": "$11.17",
+    "change1h": "1.4%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "NEXO\n                      \n  NEXO",
     "image": "https://assets.coingecko.com/coins/images/3695/standard/CG-nexo-token-200x200_2x.png?1730414360",
     "price": "$1.34",
-    "change1h": "1.5%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "change1h": "1.8%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Tezos\n                      \n  XTZ",
     "image": "https://assets.coingecko.com/coins/images/976/standard/Tezos-logo.png?1696502091",
-    "price": "$1.30",
-    "change1h": "4.6%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "price": "$1.31",
+    "change1h": "4.5%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Raydium\n                      \n  RAY",
     "image": "https://assets.coingecko.com/coins/images/13928/standard/PSigc4ie_400x400.jpg?1696513668",
-    "price": "$4.53",
-    "change1h": "5.4%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "price": "$4.55",
+    "change1h": "5.9%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Kaia\n                      \n  KAIA",
     "image": "https://assets.coingecko.com/coins/images/39901/standard/KAIA.png?1724734368",
-    "price": "$0.2237",
-    "change1h": "3.4%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "price": "$0.2243",
+    "change1h": "3.2%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Brett\n                      \n  BRETT",
     "image": "https://assets.coingecko.com/coins/images/35529/standard/1000050750.png?1709031995",
-    "price": "$0.1319",
+    "price": "$0.1323",
     "change1h": "4.1%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "timestamp": "2024-12-23T04:08:36.278Z"
   },
   {
     "name": "Solv Protocol SolvBTC\n                      \n  SOLVBTC",
     "image": "https://assets.coingecko.com/coins/images/36800/standard/solvBTC.png?1719810684",
-    "price": "$95,569.25",
-    "change1h": "1.5%",
-    "timestamp": "2024-12-23T04:00:56.483Z"
+    "price": "$96,006.47",
+    "change1h": "1.9%",
+    "timestamp": "2024-12-23T04:08:36.278Z"
   }
 ]
