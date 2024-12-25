@@ -6,7 +6,9 @@
     "node": ">=16.0.0"
   },
   "scripts": {
-    "start": "node scraper.js",
+    "install-backend": "npm install --prefix backend",
+    "start-backend": "npm start --prefix backend",
+    "start": "npm run install-backend && npm run start-backend",
     "dev": "node scraper.js"
   },
   "dependencies": {
