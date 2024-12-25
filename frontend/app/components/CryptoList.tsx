@@ -5,7 +5,10 @@ import useSWR from 'swr'
 const fetcher = (url: string) => fetch(url).then(res => res.json())
 
 export default function CryptoList() {
-  const { data, error, isLoading } = useSWR('http://localhost:3001/api/crypto', fetcher)
+const { data, error, isLoading } = useSWR(
+  `${process.env.NEXT_PUBLIC_API_URL}/api/crypto`, // Use the environment variable for the API URL
+  fetcher
+);
 
   if (error) return <div>Failed to load</div>
   if (isLoading) return <div>Loading...</div>
