@@ -128,7 +128,7 @@ export default function Home() {
       setIsLoading(true)
       setError(null)
       
-      const url = `http://localhost:3001/api/crypto?page=${page}&pageSize=${PAGE_SIZE}`;
+      const url = `https://worker-production-fe23.up.railway.app/api/crypto?page=${page}&pageSize=${PAGE_SIZE}`;
       console.log('Fetching data from:', url);
       
       const response = await fetch(url);
