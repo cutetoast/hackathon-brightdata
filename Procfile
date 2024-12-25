@@ -1,1 +1,2 @@
-worker: node scraper.js
+
+web: cd backend && npm start
