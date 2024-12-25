@@ -1,0 +1,2 @@
+web: node api/server.js
+scraper: node scraper/scraper.js
