@@ -5,7 +5,7 @@ import useSWR from 'swr'
 const fetcher = (url: string) => fetch(url).then(res => res.json())
 
 export default function CryptoList() {
-  const { data, error, isLoading } = useSWR('http://localhost:3001/api/crypto', fetcher)
+  const { data, error, isLoading } = useSWR('https://worker-production-fe23.up.railway.app/api/crypto', fetcher);
 
   if (error) return <div>Failed to load</div>
   if (isLoading) return <div>Loading...</div>
